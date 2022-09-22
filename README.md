@@ -3,16 +3,19 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-1102A7.svg)
 
 ## **Description**
-A content management system (CMS) command-line application used to manage a company's employee database.
+A command-line application used to manage a company's database of employee's. 
 
-/Users/devongray/Desktop/projects/Challenges/Employee-Tracker/assets/images/employee-tracker-img.png
+<br/>
+
+<img width="546" alt="homepage" src="https://user-images.githubusercontent.com/102159748/191711927-af18a0e3-0976-4050-b126-fbda635842cb.png">
+
 
 <br/>
 
 ## **Installation** 
-1. Clone the repository to your local system
-2. Ensure you have Node.js installed on your local system before running application
-3. Run the following command in the command-line
+1. Clone the repository to your local systems divice
+2. Download node
+3. Run the following command
 ```md
 npm i
 ```
